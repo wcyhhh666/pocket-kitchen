@@ -1,0 +1,9 @@
+{
+  "result": "Succeeded",
+  "executable": "Builds/PocketKitchen-v1/PocketKitchen.exe",
+  "unityVersion": "2022.3.55f1c1",
+  "builtAt": "2026-11-12T20:38:01.4562949+08:00",
+  "errors": 0,
+  "warnings": 0,
+  "failure": ""
+}
